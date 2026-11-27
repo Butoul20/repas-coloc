@@ -37,15 +37,6 @@
    "ajoute": "2026-11-27T15:58:28.721Z"
   },
   {
-   "uid": "xquacil",
-   "recette": "croque-monsieur",
-   "portions": 3,
-   "par": "Grégoire",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:58:31.596Z"
-  },
-  {
    "uid": "pssj9w5",
    "recette": "shakshuka",
    "portions": 3,
@@ -61,7 +52,7 @@
  },
  "historique": [],
  "maj": {
-  "par": "Fabian",
-  "le": "2026-11-27T16:02:11.393Z"
+  "par": "Matthieu",
+  "le": "2026-11-27T16:19:07.437Z"
  }
 }
