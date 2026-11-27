@@ -48,7 +48,8 @@
  ],
  "courses": {
   "coches": {
-   "Ail|gousse": true
+   "Ail|gousse": true,
+   "Huile d'olive|c.à.s": true
   },
   "statut": "liste",
   "note": ""
@@ -56,6 +57,6 @@
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:21:29.544Z"
+  "le": "2026-11-27T18:21:31.293Z"
  }
 }
