@@ -56,12 +56,14 @@
   }
  ],
  "courses": {
-  "coches": {},
+  "coches": {
+   "Beurre|g": true
+  },
   "statut": "liste"
  },
  "historique": [],
  "maj": {
-  "par": "Grégoire",
-  "le": "2026-11-27T15:58:34.967Z"
+  "par": "Fabian",
+  "le": "2026-11-27T16:02:04.875Z"
  }
 }
