@@ -8,6 +8,15 @@
    "jour": "",
    "faite": false,
    "ajoute": "2026-11-27T15:53:09.382Z"
+  },
+  {
+   "uid": "4l7bt5s",
+   "recette": "pates-carbonara",
+   "portions": 3,
+   "par": "Grégoire",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T15:58:13.526Z"
   }
  ],
  "courses": {
@@ -16,7 +25,7 @@
  },
  "historique": [],
  "maj": {
-  "par": "Matthieu",
-  "le": "2026-11-27T15:53:17.833Z"
+  "par": "Grégoire",
+  "le": "2026-11-27T15:58:13.526Z"
  }
 }
