@@ -26,6 +26,15 @@
    "jour": "",
    "faite": false,
    "ajoute": "2026-11-27T15:58:25.848Z"
+  },
+  {
+   "uid": "ljms8kx",
+   "recette": "lasagnes-bolo",
+   "portions": 3,
+   "par": "Grégoire",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T15:58:28.721Z"
   }
  ],
  "courses": {
@@ -35,6 +44,6 @@
  "historique": [],
  "maj": {
   "par": "Grégoire",
-  "le": "2026-11-27T15:58:25.848Z"
+  "le": "2026-11-27T15:58:28.721Z"
  }
 }
