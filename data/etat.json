@@ -47,13 +47,15 @@
   }
  ],
  "courses": {
-  "coches": {},
+  "coches": {
+   "Ail|gousse": true
+  },
   "statut": "liste",
   "note": ""
  },
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:21:08.341Z"
+  "le": "2026-11-27T18:21:25.629Z"
  }
 }
