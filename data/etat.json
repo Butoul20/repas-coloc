@@ -56,14 +56,12 @@
   }
  ],
  "courses": {
-  "coches": {
-   "Beurre|g": true
-  },
+  "coches": {},
   "statut": "liste"
  },
  "historique": [],
  "maj": {
   "par": "Fabian",
-  "le": "2026-11-27T16:02:04.875Z"
+  "le": "2026-11-27T16:02:06.245Z"
  }
 }
