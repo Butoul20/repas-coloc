@@ -1,0 +1,1090 @@
+[
+ {
+  "id": "curry-poulet-coco",
+  "titre": "Curry de poulet au lait de coco",
+  "temps": 30,
+  "difficulte": "Facile",
+  "tags": [
+   "Poulet",
+   "Épicé"
+  ],
+  "ingredients": [
+   {
+    "n": "Blanc de poulet",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Lait de coco",
+    "q": 100,
+    "u": "ml"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Pâte de curry",
+    "q": 1,
+    "u": "c.à.s"
+   },
+   {
+    "n": "Riz basmati",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Coriandre fraîche",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Lance la cuisson du riz dans une grande casserole d'eau salée (environ 11 min).",
+   "Émince l'oignon et coupe le poulet en morceaux de 2 cm.",
+   "Fais revenir l'oignon dans l'huile 3 min, puis ajoute la pâte de curry et remue 1 min.",
+   "Ajoute le poulet et fais-le dorer 5 min sur feu vif.",
+   "Verse le lait de coco, laisse mijoter 10 min à feu doux.",
+   "Sers sur le riz avec la coriandre ciselée."
+  ],
+  "photo": {
+   "url": "images/curry-poulet-coco.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aappam_with_chicken_curry_with_coconut_milk.jpg",
+   "credit": "Mrs.bhaskaran · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "pates-carbonara",
+  "titre": "Pâtes carbonara",
+  "temps": 20,
+  "difficulte": "Facile",
+  "tags": [
+   "Pâtes",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Spaghetti",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Lardons",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Œufs",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 25,
+    "u": "g"
+   },
+   {
+    "n": "Poivre",
+    "q": 1,
+    "u": "pincée",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les spaghetti dans une grande casserole d'eau bouillante salée.",
+   "Pendant ce temps, fais dorer les lardons à sec dans une poêle.",
+   "Bats les œufs avec le parmesan et beaucoup de poivre.",
+   "Égoutte les pâtes en gardant un verre d'eau de cuisson.",
+   "Hors du feu, mélange les pâtes, les lardons puis le mélange œuf-parmesan ; ajoute un peu d'eau de cuisson pour rendre crémeux.",
+   "Sers tout de suite."
+  ],
+  "photo": {
+   "url": "images/pates-carbonara.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg",
+   "credit": "Javier Somoza · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "chili-con-carne",
+  "titre": "Chili con carne",
+  "temps": 45,
+  "difficulte": "Facile",
+  "tags": [
+   "Bœuf",
+   "Épicé",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Bœuf haché",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Haricots rouges en conserve",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Poivron rouge",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Épices chili",
+    "q": 1,
+    "u": "c.à.c"
+   },
+   {
+    "n": "Riz basmati",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Émince l'oignon et coupe le poivron en dés.",
+   "Fais-les revenir 5 min dans l'huile dans une cocotte.",
+   "Ajoute le bœuf haché et fais-le dorer en l'émiettant.",
+   "Ajoute les épices, les tomates concassées et les haricots rincés.",
+   "Laisse mijoter 25 min à couvert en remuant de temps en temps.",
+   "Pendant ce temps, fais cuire le riz. Sers le chili sur le riz."
+  ],
+  "photo": {
+   "url": "images/chili-con-carne.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_chili.jpg",
+   "credit": "Carstor · CC BY-SA 2.5"
+  }
+ },
+ {
+  "id": "saumon-riz-brocoli",
+  "titre": "Saumon, riz et brocoli",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Poisson",
+   "Healthy"
+  ],
+  "ingredients": [
+   {
+    "n": "Pavé de saumon",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Brocoli",
+    "q": 0.3,
+    "u": "pièce"
+   },
+   {
+    "n": "Riz basmati",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Citron",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Sauce soja",
+    "q": 1,
+    "u": "c.à.s"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire le riz.",
+   "Détaille le brocoli en fleurettes et fais-les cuire 6 min à la vapeur ou dans l'eau bouillante.",
+   "Fais cuire le saumon côté peau 5 min dans une poêle huilée, puis 2 min de l'autre côté.",
+   "Arrose de sauce soja et d'un filet de citron en fin de cuisson.",
+   "Sers le saumon avec le riz et le brocoli."
+  ],
+  "photo": {
+   "url": "images/saumon-riz-brocoli.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Delicious_plate_of_grilled_salmon_with_sides_enjoyed_at_seaside_restaurant_undefined.jpg",
+   "credit": "Shixart1985 · CC BY 2.0"
+  }
+ },
+ {
+  "id": "risotto-champignons",
+  "titre": "Risotto aux champignons",
+  "temps": 35,
+  "difficulte": "Moyen",
+  "tags": [
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "n": "Riz arborio",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Champignons de Paris",
+    "q": 125,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Bouillon de légumes",
+    "q": 0.5,
+    "u": "cube"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 25,
+    "u": "g"
+   },
+   {
+    "n": "Beurre",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Vin blanc",
+    "q": 30,
+    "u": "ml"
+   }
+  ],
+  "etapes": [
+   "Fais chauffer le bouillon dans une casserole (cube dans 250 ml d'eau par personne).",
+   "Émince l'oignon et les champignons.",
+   "Fais revenir l'oignon dans la moitié du beurre, ajoute le riz et remue 2 min jusqu'à ce qu'il soit nacré.",
+   "Verse le vin blanc et laisse-le s'évaporer.",
+   "Ajoute le bouillon louche par louche en remuant, pendant 18 min.",
+   "À part, fais dorer les champignons 5 min, puis ajoute-les au risotto.",
+   "Hors du feu, ajoute le reste du beurre et le parmesan. Couvre 2 min et sers."
+  ],
+  "photo": {
+   "url": "images/risotto-champignons.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mushroom_Risotto_(4789415965).jpg",
+   "credit": "Katrin Gilger · CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "tacos-poulet",
+  "titre": "Tacos au poulet",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Poulet",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Tortillas de blé",
+    "q": 2,
+    "u": "pièce"
+   },
+   {
+    "n": "Blanc de poulet",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Avocat",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomate",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Oignon rouge",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Citron vert",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Crème fraîche",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Épices fajitas",
+    "q": 1,
+    "u": "c.à.c"
+   }
+  ],
+  "etapes": [
+   "Coupe le poulet en lanières et mélange-le avec les épices.",
+   "Fais-le cuire 7 min dans une poêle bien chaude.",
+   "Coupe la tomate et l'oignon rouge en petits dés ; écrase l'avocat avec le jus de citron vert.",
+   "Réchauffe les tortillas 30 s à la poêle.",
+   "Garnis : avocat, poulet, tomate, oignon, une cuillère de crème."
+  ],
+  "photo": {
+   "url": "images/tacos-poulet.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Skinny-licious_Chicken_Tacos_from_the_Cheesecake_Factory_(8494050474).jpg",
+   "credit": "m01229 from USA · CC BY 2.0"
+  }
+ },
+ {
+  "id": "gratin-dauphinois",
+  "titre": "Gratin dauphinois et salade",
+  "temps": 75,
+  "difficulte": "Facile",
+  "tags": [
+   "Végétarien",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Pommes de terre",
+    "q": 250,
+    "u": "g"
+   },
+   {
+    "n": "Crème liquide",
+    "q": 70,
+    "u": "ml"
+   },
+   {
+    "n": "Lait",
+    "q": 70,
+    "u": "ml"
+   },
+   {
+    "n": "Ail",
+    "q": 0.5,
+    "u": "gousse"
+   },
+   {
+    "n": "Salade verte",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Noix de muscade",
+    "q": 1,
+    "u": "pincée",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 180 °C.",
+   "Épluche les pommes de terre et coupe-les en rondelles fines (3 mm).",
+   "Frotte un plat avec l'ail coupé en deux.",
+   "Range les rondelles dans le plat, sale, poivre, ajoute la muscade.",
+   "Verse le mélange lait + crème jusqu'à presque couvrir.",
+   "Enfourne 1 h, jusqu'à ce que le dessus soit doré et la pointe d'un couteau rentre sans résistance.",
+   "Sers avec la salade."
+  ],
+  "photo": {
+   "url": "images/gratin-dauphinois.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gratin_dauphinois.jpg",
+   "credit": "Ludovic Péron · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "dahl-lentilles",
+  "titre": "Dahl de lentilles corail",
+  "temps": 30,
+  "difficulte": "Facile",
+  "tags": [
+   "Végétarien",
+   "Healthy",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Lentilles corail",
+    "q": 70,
+    "u": "g"
+   },
+   {
+    "n": "Lait de coco",
+    "q": 80,
+    "u": "ml"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Gingembre",
+    "q": 5,
+    "u": "g"
+   },
+   {
+    "n": "Curcuma",
+    "q": 0.5,
+    "u": "c.à.c"
+   },
+   {
+    "n": "Riz basmati",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Émince l'oignon et râpe le gingembre.",
+   "Fais-les revenir 3 min dans l'huile, ajoute le curcuma.",
+   "Ajoute les lentilles rincées, les tomates, le lait de coco et 150 ml d'eau par personne.",
+   "Laisse cuire 20 min à feu doux en remuant, jusqu'à ce que les lentilles soient fondantes.",
+   "Pendant ce temps, fais cuire le riz. Sers ensemble."
+  ],
+  "photo": {
+   "url": "images/dahl-lentilles.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rice_and_Dal_Makhni.jpg",
+   "credit": "Soumendra Kumar Sahoo · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "burger-maison",
+  "titre": "Burgers maison et frites au four",
+  "temps": 40,
+  "difficulte": "Facile",
+  "tags": [
+   "Bœuf",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Pains à burger",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Steak haché",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Cheddar en tranches",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomate",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Salade verte",
+    "q": 0.1,
+    "u": "pièce"
+   },
+   {
+    "n": "Pommes de terre",
+    "q": 200,
+    "u": "g"
+   },
+   {
+    "n": "Ketchup",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 220 °C.",
+   "Coupe les pommes de terre en frites, mélange-les avec l'huile et du sel, étale sur une plaque.",
+   "Enfourne 30 min en retournant à mi-cuisson.",
+   "10 min avant la fin, cuis les steaks 2-3 min par face, pose le cheddar dessus en fin de cuisson.",
+   "Toaste les pains, monte les burgers : sauce, salade, steak-cheddar, tomate.",
+   "Sers avec les frites."
+  ],
+  "photo": {
+   "url": "images/burger-maison.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Argentine_homemade_hamburger_with_lettuce,_tomato_and_cheese.jpg",
+   "credit": "Horacio Cambeiro · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "quiche-lorraine",
+  "titre": "Quiche lorraine",
+  "temps": 50,
+  "difficulte": "Facile",
+  "tags": [
+   "Four",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Pâte brisée",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Lardons",
+    "q": 50,
+    "u": "g"
+   },
+   {
+    "n": "Œufs",
+    "q": 0.75,
+    "u": "pièce"
+   },
+   {
+    "n": "Crème liquide",
+    "q": 50,
+    "u": "ml"
+   },
+   {
+    "n": "Lait",
+    "q": 30,
+    "u": "ml"
+   },
+   {
+    "n": "Emmental râpé",
+    "q": 20,
+    "u": "g"
+   },
+   {
+    "n": "Salade verte",
+    "q": 0.25,
+    "u": "pièce"
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 200 °C.",
+   "Étale la pâte dans un moule et pique le fond à la fourchette.",
+   "Fais revenir les lardons 5 min à la poêle, égoutte-les.",
+   "Bats les œufs avec la crème, le lait, du poivre.",
+   "Répartis lardons et emmental sur la pâte, verse l'appareil.",
+   "Enfourne 30-35 min jusqu'à ce que ce soit doré. Sers avec la salade."
+  ],
+  "photo": {
+   "url": "images/quiche-lorraine.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Quiche_lorraine_01.JPG",
+   "credit": "Arnaud 25 · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "wok-boeuf-legumes",
+  "titre": "Wok de bœuf aux légumes et nouilles",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Bœuf",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Bœuf à fondue ou rumsteck",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Nouilles chinoises",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Poivron rouge",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Carotte",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Oignon nouveau",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Sauce soja",
+    "q": 2,
+    "u": "c.à.s"
+   },
+   {
+    "n": "Gingembre",
+    "q": 5,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les nouilles selon le paquet, égoutte-les.",
+   "Coupe le bœuf en fines lanières, le poivron et la carotte en bâtonnets, émince l'oignon nouveau.",
+   "Saisis le bœuf 2 min dans le wok très chaud avec l'huile, réserve.",
+   "Fais sauter les légumes et le gingembre râpé 4 min.",
+   "Remets le bœuf, ajoute les nouilles et la sauce soja, mélange 1 min sur feu vif.",
+   "Sers avec le vert de l'oignon nouveau."
+  ],
+  "photo": {
+   "url": "images/wok-boeuf-legumes.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Beef_Stir-fried_Noodles_-_Frank%27s_Noodle_House.jpg",
+   "credit": "TurquoiseGoose · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "soupe-potiron",
+  "titre": "Velouté de potiron et croûtons",
+  "temps": 35,
+  "difficulte": "Facile",
+  "tags": [
+   "Végétarien",
+   "Healthy"
+  ],
+  "ingredients": [
+   {
+    "n": "Potiron",
+    "q": 300,
+    "u": "g"
+   },
+   {
+    "n": "Pommes de terre",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Bouillon de légumes",
+    "q": 0.5,
+    "u": "cube"
+   },
+   {
+    "n": "Crème liquide",
+    "q": 20,
+    "u": "ml"
+   },
+   {
+    "n": "Pain de campagne",
+    "q": 1,
+    "u": "tranche"
+   }
+  ],
+  "etapes": [
+   "Épluche et coupe le potiron, la pomme de terre et l'oignon en morceaux.",
+   "Mets-les dans une casserole, couvre d'eau à hauteur avec le bouillon.",
+   "Laisse cuire 20 min jusqu'à ce que ce soit tendre.",
+   "Mixe avec la crème, rectifie sel et poivre.",
+   "Fais griller le pain coupé en dés à la poêle et sers sur le velouté."
+  ],
+  "photo": {
+   "url": "images/soupe-potiron.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Autumn_Soup_(Unsplash)_cropped.jpg",
+   "credit": "Cala cala_maffia · CC0"
+  }
+ },
+ {
+  "id": "lasagnes-bolo",
+  "titre": "Lasagnes à la bolognaise",
+  "temps": 75,
+  "difficulte": "Moyen",
+  "tags": [
+   "Bœuf",
+   "Four",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Feuilles de lasagnes",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Bœuf haché",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Lait",
+    "q": 120,
+    "u": "ml"
+   },
+   {
+    "n": "Beurre",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Farine",
+    "q": 10,
+    "u": "g",
+    "placard": true
+   },
+   {
+    "n": "Emmental râpé",
+    "q": 25,
+    "u": "g"
+   }
+  ],
+  "etapes": [
+   "Bolognaise : fais revenir l'oignon émincé, ajoute le bœuf, puis la sauce tomate ; mijote 15 min.",
+   "Béchamel : fais fondre le beurre, ajoute la farine, remue 1 min, verse le lait petit à petit en fouettant jusqu'à épaississement.",
+   "Préchauffe le four à 180 °C.",
+   "Dans un plat : une couche de bolognaise, des feuilles, de la béchamel ; recommence 3 fois.",
+   "Termine par béchamel et emmental.",
+   "Enfourne 40 min."
+  ],
+  "photo": {
+   "url": "images/lasagnes-bolo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Meaty_Lasagna_8of8_(8736299782).jpg",
+   "credit": "Breville USA · CC BY 2.0"
+  }
+ },
+ {
+  "id": "buddha-bowl",
+  "titre": "Buddha bowl pois chiches et patate douce",
+  "temps": 35,
+  "difficulte": "Facile",
+  "tags": [
+   "Végétarien",
+   "Healthy",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Patate douce",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Pois chiches en conserve",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Quinoa",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Avocat",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Jeunes pousses d'épinard",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Yaourt grec",
+    "q": 50,
+    "u": "g"
+   },
+   {
+    "n": "Citron",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 200 °C.",
+   "Coupe la patate douce en cubes, mélange avec les pois chiches égouttés, l'huile, sel et paprika.",
+   "Enfourne 25 min.",
+   "Fais cuire le quinoa 12 min dans l'eau bouillante.",
+   "Sauce : yaourt + jus de citron + sel.",
+   "Compose les bols : épinards, quinoa, légumes rôtis, avocat, sauce."
+  ],
+  "photo": {
+   "url": "images/buddha-bowl.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BuddhaBowlLot.jpg",
+   "credit": "PizzaMan · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "croque-monsieur",
+  "titre": "Croque-monsieur et salade",
+  "temps": 20,
+  "difficulte": "Facile",
+  "tags": [
+   "Rapide",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Pain de mie",
+    "q": 4,
+    "u": "tranche"
+   },
+   {
+    "n": "Jambon blanc",
+    "q": 1,
+    "u": "tranche"
+   },
+   {
+    "n": "Emmental râpé",
+    "q": 40,
+    "u": "g"
+   },
+   {
+    "n": "Beurre",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Salade verte",
+    "q": 0.25,
+    "u": "pièce"
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 200 °C (ou le grill).",
+   "Beurre les tranches de pain de mie.",
+   "Monte : pain, jambon, emmental, pain, puis emmental sur le dessus.",
+   "Enfourne 10-12 min jusqu'à ce que ce soit doré.",
+   "Sers avec la salade."
+  ],
+  "photo": {
+   "url": "images/croque-monsieur.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cambodian_Croque_Monsieur.jpg",
+   "credit": "Photogoddle · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "poulet-roti-legumes",
+  "titre": "Cuisses de poulet rôties et légumes",
+  "temps": 55,
+  "difficulte": "Facile",
+  "tags": [
+   "Poulet",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Cuisses de poulet",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Pommes de terre",
+    "q": 200,
+    "u": "g"
+   },
+   {
+    "n": "Carotte",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Oignon rouge",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Herbes de Provence",
+    "q": 1,
+    "u": "c.à.c",
+    "placard": true
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 200 °C.",
+   "Coupe pommes de terre, carottes et oignon en gros morceaux.",
+   "Mets tout dans un plat avec le poulet, l'huile, les herbes, sel et poivre ; mélange.",
+   "Enfourne 45 min en arrosant le poulet à mi-cuisson.",
+   "Vérifie que le jus du poulet est clair, puis sers."
+  ],
+  "photo": {
+   "url": "images/poulet-roti-legumes.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Curry_roasted_cauliflower_and_haricots_verts,_roasted_garlic_celeriac_puree,_beef_bourguignon,_and_chicken_thigh_with_sweet_potato_and_apple_-_Boston,_MA.jpg",
+   "credit": "Daderot · CC0"
+  }
+ },
+ {
+  "id": "shakshuka",
+  "titre": "Shakshuka (œufs à la tomate)",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Œufs",
+    "q": 2,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 200,
+    "u": "g"
+   },
+   {
+    "n": "Poivron rouge",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Cumin",
+    "q": 0.5,
+    "u": "c.à.c"
+   },
+   {
+    "n": "Feta",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Pain de campagne",
+    "q": 2,
+    "u": "tranche"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Émince l'oignon et le poivron, fais-les revenir 8 min dans l'huile.",
+   "Ajoute le cumin puis les tomates, laisse réduire 8 min.",
+   "Creuse des puits et casse les œufs dedans.",
+   "Couvre et laisse cuire 5-6 min : le blanc doit être pris, le jaune coulant.",
+   "Émiette la feta par-dessus et sers avec le pain grillé."
+  ],
+  "photo": {
+   "url": "images/shakshuka.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg",
+   "credit": "Calliopejen1 · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "pates-pesto-poulet",
+  "titre": "Pâtes au pesto, poulet et tomates cerises",
+  "temps": 20,
+  "difficulte": "Facile",
+  "tags": [
+   "Pâtes",
+   "Poulet",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Penne",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Blanc de poulet",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Pesto",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Tomates cerises",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les penne.",
+   "Coupe le poulet en dés et fais-le dorer 6 min dans l'huile.",
+   "Coupe les tomates cerises en deux.",
+   "Mélange les pâtes égouttées avec le pesto, le poulet et les tomates.",
+   "Sers avec le parmesan."
+  ],
+  "photo": {
+   "url": "images/pates-pesto-poulet.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicken_Pesto_Pasta.jpg",
+   "credit": "Kunokuno · CC BY-SA 4.0"
+  }
+ }
+]
