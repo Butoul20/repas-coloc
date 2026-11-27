@@ -17,6 +17,15 @@
    "jour": "",
    "faite": false,
    "ajoute": "2026-11-27T15:58:13.526Z"
+  },
+  {
+   "uid": "4cf6xrb",
+   "recette": "wok-boeuf-legumes",
+   "portions": 3,
+   "par": "Grégoire",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T15:58:25.848Z"
   }
  ],
  "courses": {
@@ -26,6 +35,6 @@
  "historique": [],
  "maj": {
   "par": "Grégoire",
-  "le": "2026-11-27T15:58:13.526Z"
+  "le": "2026-11-27T15:58:25.848Z"
  }
 }
