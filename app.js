@@ -203,7 +203,7 @@ function vueCourses(v) {
     ${!l.length ? `<p class="vide">Ajoute des repas au menu pour générer la liste.</p>` : `
     ${c.statut === "liste" ? `<button class="bouton orange" data-statut="panier_demande">🛒 Demander le panier Leclerc Drive</button>
       <p class="doux petit">Coche avant ce qu'on a déjà à l'appart : ce ne sera pas commandé.</p>` : ""}
-    ${c.statut === "panier_demande" ? `<p class="doux petit">Claude remplit le panier Leclerc Drive (Voltaire) avec les articles non cochés. Matthieu valide et paie.</p>` : ""}
+    ${c.statut === "panier_demande" ? `<p class="doux petit">Liste figée. Matthieu demande à Claude de remplir le panier Leclerc Drive (Voltaire) avec les articles non cochés, puis il valide et paie.</p>` : ""}
     ${c.statut === "panier_pret" ? `<button class="bouton" data-statut="commande">✅ C'est commandé</button>` : ""}
     <h2>À acheter (${achat.length})</h2>
     <div class="carte">${achat.map(ligne).join("")}</div>
@@ -261,7 +261,7 @@ document.addEventListener("click", (ev) => {
   if (d.retirer) { if (!confirm(`Retirer « ${nomRepas(d.retirer)} » du menu ?`)) return;
     return modifier((e) => (e.repas = e.repas.filter((y) => y.uid !== d.retirer)), `retire ${nomRepas(d.retirer)}`); }
   if (d.statut) {
-    if (d.statut === "panier_demande" && !confirm("Demander à Claude de remplir le panier Leclerc Drive avec les articles non cochés ?")) return;
+    if (d.statut === "panier_demande" && !confirm("Figer la liste pour le panier Leclerc Drive ? (Matthieu le fera remplir par Claude)")) return;
     return modifier((e) => { e.courses.statut = d.statut; if (d.statut === "liste") e.courses.note = ""; }, `statut ${d.statut}`);
   }
   if ("nouvelle" in d) { if (!confirm("Vider le menu et la liste pour une nouvelle semaine ?")) return;
