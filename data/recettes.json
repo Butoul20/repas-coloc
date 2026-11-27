@@ -1086,5 +1086,1067 @@
    "page": "https://commons.wikimedia.org/wiki/File:Chicken_Pesto_Pasta.jpg",
    "credit": "Kunokuno · CC BY-SA 4.0"
   }
+ },
+ {
+  "id": "spaghetti-bolognaise",
+  "titre": "Spaghetti bolognaise",
+  "temps": 45,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Bœuf"
+  ],
+  "ingredients": [
+   {
+    "n": "Spaghetti",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Bœuf haché",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Carotte",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Hache finement l'oignon et la carotte.",
+   "Fais-les revenir 5 min dans l'huile.",
+   "Ajoute le bœuf haché et fais-le dorer en l'émiettant.",
+   "Verse la sauce tomate, sale, poivre et laisse mijoter 25 min à feu doux.",
+   "Fais cuire les spaghetti, égoutte-les.",
+   "Mélange avec la sauce et sers avec le parmesan."
+  ],
+  "photo": {
+   "url": "images/spaghetti-bolognaise.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_Bolognese_-_Figaros,_Brighton_2023-10-06.jpg",
+   "credit": "Andy Li · CC0"
+  }
+ },
+ {
+  "id": "penne-arrabbiata",
+  "titre": "Penne all'arrabbiata",
+  "temps": 20,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Végétarien",
+   "Épicé",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Penne",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Ail",
+    "q": 1,
+    "u": "gousse"
+   },
+   {
+    "n": "Piment d'Espelette",
+    "q": 0.25,
+    "u": "c.à.c",
+    "placard": true
+   },
+   {
+    "n": "Persil plat",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les penne.",
+   "Fais revenir l'ail émincé et le piment 1 min dans l'huile sans colorer.",
+   "Ajoute les tomates, sale et laisse réduire 10 min.",
+   "Mélange les pâtes avec la sauce et un peu d'eau de cuisson.",
+   "Parsème de persil ciselé et de parmesan."
+  ],
+  "photo": {
+   "url": "images/penne-arrabbiata.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Penne_Arrabbiata.jpg",
+   "credit": "Petar Milošević · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "risotto-milanese",
+  "titre": "Risotto au parmesan et safran",
+  "temps": 35,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "n": "Riz arborio",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Bouillon de volaille",
+    "q": 0.5,
+    "u": "cube"
+   },
+   {
+    "n": "Safran",
+    "q": 0.25,
+    "u": "dose"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Beurre",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Vin blanc",
+    "q": 30,
+    "u": "ml"
+   }
+  ],
+  "etapes": [
+   "Fais chauffer le bouillon (250 ml d'eau par personne) avec le safran.",
+   "Fais revenir l'oignon haché dans la moitié du beurre.",
+   "Ajoute le riz, remue 2 min puis verse le vin blanc.",
+   "Ajoute le bouillon louche par louche en remuant pendant 18 min.",
+   "Hors du feu, ajoute le reste du beurre et le parmesan, couvre 2 min et sers."
+  ],
+  "photo": {
+   "url": "images/risotto-milanese.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Risotto_saffron_and_pistachio_nuts_(32645475042).jpg",
+   "credit": "Luca Nebuloni · CC BY 2.0"
+  }
+ },
+ {
+  "id": "lasagnes-epinards-ricotta",
+  "titre": "Lasagnes épinards et ricotta",
+  "temps": 60,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Four",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Feuilles de lasagnes",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Épinards surgelés",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Ricotta",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Mozzarella",
+    "q": 40,
+    "u": "g"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Noix de muscade",
+    "q": 1,
+    "u": "pincée",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 180 °C.",
+   "Fais décongeler les épinards à la poêle et presse-les pour enlever l'eau.",
+   "Mélange-les avec la ricotta, le parmesan, sel, poivre et muscade.",
+   "Dans un plat : sauce tomate, feuilles, mélange épinards-ricotta ; recommence 3 fois.",
+   "Termine par la sauce tomate et la mozzarella en morceaux.",
+   "Enfourne 35 min."
+  ],
+  "photo": {
+   "url": "images/lasagnes-epinards-ricotta.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Vegetarian-lasagna_.jpg",
+   "credit": "FloGalsen · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "pizza-maison",
+  "titre": "Pizza margherita maison",
+  "temps": 40,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Pâte à pizza",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Mozzarella",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Basilic frais",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 250 °C (le plus chaud possible) avec la plaque dedans.",
+   "Étale la pâte sur du papier cuisson.",
+   "Étale la sauce tomate en laissant un bord, sale légèrement.",
+   "Ajoute la mozzarella égouttée en morceaux et un filet d'huile.",
+   "Glisse sur la plaque chaude et enfourne 10-12 min.",
+   "Ajoute le basilic frais en sortant du four."
+  ],
+  "photo": {
+   "url": "images/pizza-maison.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG",
+   "credit": "Mario56 · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "gnocchi-sauce-tomate",
+  "titre": "Gnocchis poêlés, tomate et mozzarella",
+  "temps": 20,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Gnocchis",
+    "q": 170,
+    "u": "g"
+   },
+   {
+    "n": "Tomates cerises",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Mozzarella",
+    "q": 50,
+    "u": "g"
+   },
+   {
+    "n": "Ail",
+    "q": 0.5,
+    "u": "gousse"
+   },
+   {
+    "n": "Basilic frais",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais dorer les gnocchis 6-8 min dans l'huile à la poêle, sans les cuire avant.",
+   "Ajoute l'ail émincé et les tomates cerises coupées en deux, poursuis 4 min.",
+   "Ajoute la mozzarella en morceaux, couvre 1 min pour qu'elle fonde.",
+   "Sers avec le basilic."
+  ],
+  "photo": {
+   "url": "images/gnocchi-sauce-tomate.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gnocchi_alla_sorrentina.jpg",
+   "credit": "Davide Zambelli · CC BY 3.0"
+  }
+ },
+ {
+  "id": "osso-buco",
+  "titre": "Osso buco de dinde",
+  "temps": 90,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Osso buco de dinde",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Carotte",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Vin blanc",
+    "q": 50,
+    "u": "ml"
+   },
+   {
+    "n": "Citron",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Riz arborio",
+    "q": 70,
+    "u": "g"
+   },
+   {
+    "n": "Farine",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Farine légèrement la viande et fais-la dorer 3 min par face dans une cocotte huilée. Réserve.",
+   "Fais revenir l'oignon et la carotte en dés 5 min.",
+   "Déglace au vin blanc, ajoute les tomates et remets la viande.",
+   "Couvre et laisse mijoter 1 h à feu doux.",
+   "Râpe un peu de zeste de citron dessus avant de servir, avec du riz cuit simplement."
+  ],
+  "photo": {
+   "url": "images/osso-buco.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ossobuco.jpg",
+   "credit": "Mogens Engelund · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "saltimbocca",
+  "titre": "Saltimbocca de poulet au jambon cru",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Poulet"
+  ],
+  "ingredients": [
+   {
+    "n": "Escalope de poulet",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Jambon cru",
+    "q": 1,
+    "u": "tranche"
+   },
+   {
+    "n": "Sauge fraîche",
+    "q": 2,
+    "u": "feuille"
+   },
+   {
+    "n": "Vin blanc",
+    "q": 30,
+    "u": "ml"
+   },
+   {
+    "n": "Beurre",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Haricots verts",
+    "q": 150,
+    "u": "g"
+   }
+  ],
+  "etapes": [
+   "Fais cuire les haricots verts 10 min à l'eau bouillante salée.",
+   "Aplatis l'escalope, pose une feuille de sauge et la tranche de jambon, fixe avec un cure-dent.",
+   "Fais cuire 3 min côté jambon dans le beurre, puis 3 min de l'autre côté.",
+   "Déglace au vin blanc et laisse réduire 1 min.",
+   "Sers avec les haricots et la sauce."
+  ],
+  "photo": {
+   "url": "images/saltimbocca.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Saltimbocca_alla_Romana.jpg",
+   "credit": "Alec Vuijlsteke · CC BY 2.0"
+  }
+ },
+ {
+  "id": "minestrone",
+  "titre": "Minestrone",
+  "temps": 45,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Healthy",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Courgette",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Carotte",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Céleri branche",
+    "q": 0.5,
+    "u": "branche"
+   },
+   {
+    "n": "Haricots blancs en conserve",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 100,
+    "u": "g"
+   },
+   {
+    "n": "Petites pâtes",
+    "q": 30,
+    "u": "g"
+   },
+   {
+    "n": "Bouillon de légumes",
+    "q": 0.5,
+    "u": "cube"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Coupe tous les légumes en petits dés.",
+   "Fais-les revenir 5 min dans l'huile.",
+   "Ajoute les tomates, le bouillon et 300 ml d'eau par personne ; laisse cuire 20 min.",
+   "Ajoute les haricots rincés et les pâtes, cuis 10 min de plus.",
+   "Sers avec le parmesan."
+  ],
+  "photo": {
+   "url": "images/minestrone.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Minestrone_soup.jpg",
+   "credit": "Katrin Morenz from Aachen, Deutschland · CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "pates-cacio-pepe",
+  "titre": "Pâtes cacio e pepe",
+  "temps": 15,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Spaghetti",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Pecorino râpé",
+    "q": 40,
+    "u": "g"
+   },
+   {
+    "n": "Poivre",
+    "q": 1,
+    "u": "c.à.c",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les spaghetti dans peu d'eau, peu salée (l'eau doit être bien chargée en amidon).",
+   "Fais griller le poivre concassé 1 min à sec dans une grande poêle.",
+   "Ajoute une louche d'eau de cuisson dans la poêle.",
+   "Mélange le pecorino avec un peu d'eau de cuisson tiède pour faire une crème.",
+   "Mets les pâtes dans la poêle, hors du feu ajoute la crème de pecorino et remue vivement jusqu'à ce que ce soit crémeux."
+  ],
+  "photo": {
+   "url": "images/pates-cacio-pepe.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti,_cacio_e_pepe_%26_bitter_leaf_salad_-_Tutto_2024-04-04.jpg",
+   "credit": "Andy Li · CC0"
+  }
+ },
+ {
+  "id": "aubergines-parmigiana",
+  "titre": "Aubergines à la parmigiana",
+  "temps": 60,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Aubergine",
+    "q": 1,
+    "u": "pièce"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Mozzarella",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 20,
+    "u": "g"
+   },
+   {
+    "n": "Basilic frais",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Pain de campagne",
+    "q": 1,
+    "u": "tranche"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 2,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 200 °C.",
+   "Coupe l'aubergine en tranches de 5 mm, badigeonne-les d'huile et fais-les rôtir 15 min sur une plaque.",
+   "Dans un plat : sauce tomate, aubergines, mozzarella, basilic, parmesan ; recommence.",
+   "Finis par la sauce et le parmesan.",
+   "Enfourne 25 min. Sers avec le pain."
+  ],
+  "photo": {
+   "url": "images/aubergines-parmigiana.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parmigiana_di_melanzane-cer.JPG",
+   "credit": "Tamorlan · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "pates-pesto-burrata",
+  "titre": "Linguine, pesto et burrata",
+  "temps": 15,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Végétarien",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Linguine",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Pesto",
+    "q": 35,
+    "u": "g"
+   },
+   {
+    "n": "Burrata",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomates cerises",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Pignons de pin",
+    "q": 5,
+    "u": "g"
+   }
+  ],
+  "etapes": [
+   "Fais cuire les linguine.",
+   "Fais griller les pignons à sec 2 min.",
+   "Mélange les pâtes égouttées avec le pesto et un peu d'eau de cuisson.",
+   "Sers avec les tomates cerises coupées, la burrata ouverte au centre et les pignons."
+  ],
+  "photo": {
+   "url": "images/pates-pesto-burrata.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Burrata_salad_from_PACI_Pasta_Bar_Sha_Tin.jpg",
+   "credit": "Peachyeung316 · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "poulet-cacciatore",
+  "titre": "Poulet cacciatore",
+  "temps": 50,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Poulet",
+   "Batch cooking"
+  ],
+  "ingredients": [
+   {
+    "n": "Hauts de cuisse de poulet",
+    "q": 2,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomates concassées",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Poivron rouge",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Champignons de Paris",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Olives noires",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Tagliatelles",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais dorer le poulet côté peau 6 min dans une cocotte huilée, puis retourne 2 min. Réserve.",
+   "Fais revenir l'oignon, le poivron et les champignons émincés 6 min.",
+   "Ajoute les tomates, les olives et le poulet.",
+   "Couvre et laisse mijoter 30 min.",
+   "Sers avec les tagliatelles."
+  ],
+  "photo": {
+   "url": "images/poulet-cacciatore.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Guerra%27s_To_Go_Chicken_Cacciatore_Thighs_(37050540883).jpg",
+   "credit": "Willis Lam · CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "tagliatelles-champignons",
+  "titre": "Tagliatelles crème et champignons",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Végétarien"
+  ],
+  "ingredients": [
+   {
+    "n": "Tagliatelles",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Champignons de Paris",
+    "q": 125,
+    "u": "g"
+   },
+   {
+    "n": "Crème liquide",
+    "q": 60,
+    "u": "ml"
+   },
+   {
+    "n": "Ail",
+    "q": 0.5,
+    "u": "gousse"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Persil plat",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les tagliatelles.",
+   "Fais dorer les champignons émincés 6 min à feu vif, ajoute l'ail.",
+   "Verse la crème, laisse frémir 2 min.",
+   "Mélange avec les pâtes et le parmesan, parsème de persil."
+  ],
+  "photo": {
+   "url": "images/tagliatelles-champignons.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tagliatelle_ai_funghi.jpg",
+   "credit": "Bonniebartilomo · CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "focaccia-salade",
+  "titre": "Focaccia et salade caprese",
+  "temps": 40,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Four"
+  ],
+  "ingredients": [
+   {
+    "n": "Pâte à pizza",
+    "q": 0.4,
+    "u": "pièce"
+   },
+   {
+    "n": "Tomate",
+    "q": 1.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Mozzarella",
+    "q": 80,
+    "u": "g"
+   },
+   {
+    "n": "Basilic frais",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Romarin",
+    "q": 1,
+    "u": "branche"
+   },
+   {
+    "n": "Fleur de sel",
+    "q": 1,
+    "u": "pincée",
+    "placard": true
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 2,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Préchauffe le four à 220 °C.",
+   "Étale la pâte sur 2 cm d'épaisseur dans un moule huilé, enfonce les doigts pour faire des creux.",
+   "Arrose d'huile, parsème de romarin et de fleur de sel ; enfourne 20 min.",
+   "Pendant ce temps, coupe tomates et mozzarella en tranches, alterne-les avec le basilic.",
+   "Assaisonne d'huile, sel et poivre ; sers avec la focaccia tiède."
+  ],
+  "photo": {
+   "url": "images/focaccia-salade.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Insalata_Caprese_(from_Poznan).JPG",
+   "credit": "MOs810 · CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "pates-thon-citron",
+  "titre": "Pâtes au thon, citron et câpres",
+  "temps": 15,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Pâtes",
+   "Poisson",
+   "Rapide"
+  ],
+  "ingredients": [
+   {
+    "n": "Spaghetti",
+    "q": 110,
+    "u": "g"
+   },
+   {
+    "n": "Thon en conserve",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Citron",
+    "q": 0.5,
+    "u": "pièce"
+   },
+   {
+    "n": "Câpres",
+    "q": 1,
+    "u": "c.à.s"
+   },
+   {
+    "n": "Ail",
+    "q": 0.5,
+    "u": "gousse"
+   },
+   {
+    "n": "Persil plat",
+    "q": 0.25,
+    "u": "bouquet"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Fais cuire les spaghetti.",
+   "Fais revenir l'ail émincé dans l'huile 1 min.",
+   "Ajoute le thon émietté, les câpres et le zeste du citron.",
+   "Mélange avec les pâtes, le jus de citron et un peu d'eau de cuisson.",
+   "Parsème de persil."
+  ],
+  "photo": {
+   "url": "images/pates-thon-citron.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_al_tonno_1.jpg",
+   "credit": "10Rosso · CC BY 2.0"
+  }
+ },
+ {
+  "id": "tiramisu",
+  "titre": "Tiramisu",
+  "temps": 25,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Dessert"
+  ],
+  "ingredients": [
+   {
+    "n": "Mascarpone",
+    "q": 60,
+    "u": "g"
+   },
+   {
+    "n": "Œufs",
+    "q": 0.75,
+    "u": "pièce"
+   },
+   {
+    "n": "Sucre",
+    "q": 15,
+    "u": "g",
+    "placard": true
+   },
+   {
+    "n": "Biscuits à la cuillère",
+    "q": 4,
+    "u": "pièce"
+   },
+   {
+    "n": "Café",
+    "q": 60,
+    "u": "ml",
+    "placard": true
+   },
+   {
+    "n": "Cacao en poudre",
+    "q": 1,
+    "u": "c.à.c"
+   }
+  ],
+  "etapes": [
+   "Prépare le café et laisse-le refroidir.",
+   "Sépare les blancs des jaunes. Fouette les jaunes avec le sucre, puis ajoute le mascarpone.",
+   "Monte les blancs en neige et incorpore-les délicatement.",
+   "Trempe rapidement les biscuits dans le café et range-les dans un plat.",
+   "Alterne crème et biscuits, termine par la crème.",
+   "Réfrigère au moins 4 h, saupoudre de cacao avant de servir."
+  ],
+  "photo": {
+   "url": "images/tiramisu.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dolce_Tiramis%C3%B9_monoporzione.jpg",
+   "credit": "Anna.Massini · CC BY 4.0"
+  }
+ },
+ {
+  "id": "panna-cotta",
+  "titre": "Panna cotta aux fruits rouges",
+  "temps": 15,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Dessert"
+  ],
+  "ingredients": [
+   {
+    "n": "Crème liquide",
+    "q": 100,
+    "u": "ml"
+   },
+   {
+    "n": "Sucre",
+    "q": 15,
+    "u": "g",
+    "placard": true
+   },
+   {
+    "n": "Gélatine",
+    "q": 0.5,
+    "u": "feuille"
+   },
+   {
+    "n": "Fruits rouges surgelés",
+    "q": 50,
+    "u": "g"
+   },
+   {
+    "n": "Extrait de vanille",
+    "q": 0.25,
+    "u": "c.à.c"
+   }
+  ],
+  "etapes": [
+   "Fais tremper la gélatine dans l'eau froide.",
+   "Chauffe la crème avec le sucre et la vanille jusqu'à frémissement.",
+   "Hors du feu, ajoute la gélatine essorée et mélange.",
+   "Verse dans des verres et réfrigère 4 h.",
+   "Fais compoter les fruits rouges 5 min à la casserole avec un peu de sucre et verse-les sur les panna cotta."
+  ],
+  "photo": {
+   "url": "images/panna-cotta.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Panna_Cotta_with_cream_and_garnish.jpg",
+   "credit": "hiro · CC BY-SA 2.0"
+  }
  }
 ]

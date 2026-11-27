@@ -137,7 +137,7 @@ function afficher() {
 }
 
 function vueRecettes(v) {
-  const tags = ["Tout", ...new Set(RECETTES.flatMap((r) => r.tags))];
+  const tags = ["Tout", ...new Set(["Italien", ...RECETTES.flatMap((r) => r.tags)])];
   const dans = new Set(etat.repas.map((x) => x.recette));
   const liste = RECETTES.filter((r) => (filtre === "Tout" || r.tags.includes(filtre)) &&
     (!texte || (r.titre + " " + r.ingredients.map((i) => i.n).join(" ")).toLowerCase().includes(texte.toLowerCase())));
