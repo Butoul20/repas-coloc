@@ -2148,5 +2148,131 @@
    "page": "https://commons.wikimedia.org/wiki/File:Panna_Cotta_with_cream_and_garnish.jpg",
    "credit": "hiro · CC BY-SA 2.0"
   }
+ },
+ {
+  "id": "risotto-poireau",
+  "titre": "Risotto au poireau et parmesan",
+  "temps": 35,
+  "difficulte": "Moyen",
+  "tags": [
+   "Italien",
+   "Végétarien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "n": "Riz à risotto",
+    "q": 90,
+    "u": "g"
+   },
+   {
+    "n": "Poireaux (rondelles surgelées)",
+    "q": 150,
+    "u": "g"
+   },
+   {
+    "n": "Oignon",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Bouillon de volaille",
+    "q": 0.5,
+    "u": "cube"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 20,
+    "u": "g"
+   },
+   {
+    "n": "Beurre",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Dilue les cubes de bouillon dans de l'eau chaude (environ 300 ml par personne) et garde-la au chaud.",
+   "Fais suer l'oignon émincé dans l'huile 3 min, ajoute les poireaux et cuis 5 min.",
+   "Ajoute le riz, remue 2 min jusqu'à ce qu'il soit translucide.",
+   "Verse le bouillon louche par louche en remuant, en attendant que chaque louche soit absorbée (18-20 min).",
+   "Hors du feu, ajoute le beurre et le parmesan, mélange, couvre 2 min. Poivre et sers."
+  ],
+  "photo": {
+   "url": "images/risotto-champignons.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mushroom_Risotto_(4789415965).jpg",
+   "credit": "Katrin Gilger · CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "gnocchi-polpette",
+  "titre": "Gnocchis et polpettes à la sauce tomate",
+  "temps": 40,
+  "difficulte": "Facile",
+  "tags": [
+   "Italien",
+   "Économique"
+  ],
+  "ingredients": [
+   {
+    "n": "Gnocchis",
+    "q": 200,
+    "u": "g"
+   },
+   {
+    "n": "Bœuf haché",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Chapelure",
+    "q": 15,
+    "u": "g"
+   },
+   {
+    "n": "Œuf",
+    "q": 0.25,
+    "u": "pièce"
+   },
+   {
+    "n": "Sauce tomate",
+    "q": 120,
+    "u": "g"
+   },
+   {
+    "n": "Ail",
+    "q": 0.25,
+    "u": "gousse"
+   },
+   {
+    "n": "Parmesan râpé",
+    "q": 10,
+    "u": "g"
+   },
+   {
+    "n": "Huile d'olive",
+    "q": 1,
+    "u": "c.à.s",
+    "placard": true
+   }
+  ],
+  "etapes": [
+   "Mélange le bœuf, la chapelure, l'œuf battu, l'ail écrasé, le parmesan, sel et poivre. Forme des boulettes de la taille d'une noix.",
+   "Fais-les dorer 5 min dans l'huile à la poêle, en les tournant.",
+   "Verse la sauce tomate, couvre et laisse mijoter 15 min à feu doux.",
+   "Pendant ce temps, fais dorer les gnocchis 6-8 min dans une autre poêle, sans les cuire avant.",
+   "Sers les gnocchis nappés de sauce avec les polpettes."
+  ],
+  "photo": {
+   "url": "images/gnocchi-sauce-tomate.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Gnocchi_alla_sorrentina.jpg",
+   "credit": "Davide Zambelli · CC BY 3.0"
+  }
  }
 ]
