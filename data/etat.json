@@ -35,6 +35,15 @@
    "jour": "",
    "faite": false,
    "ajoute": "2026-11-27T16:20:11.769483Z"
+  },
+  {
+   "uid": "fksblxa",
+   "recette": "aubergines-parmigiana",
+   "portions": 3,
+   "par": "Matthieu",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T18:20:37.367Z"
   }
  ],
  "courses": {
@@ -45,6 +54,6 @@
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:20:10.613Z"
+  "le": "2026-11-27T18:20:37.367Z"
  }
 }
