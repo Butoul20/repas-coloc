@@ -35,15 +35,6 @@
    "jour": "",
    "faite": false,
    "ajoute": "2026-11-27T15:58:28.721Z"
-  },
-  {
-   "uid": "pssj9w5",
-   "recette": "shakshuka",
-   "portions": 3,
-   "par": "Grégoire",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:58:34.967Z"
   }
  ],
  "courses": {
@@ -53,6 +44,6 @@
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T16:19:07.437Z"
+  "le": "2026-11-27T16:19:08.950Z"
  }
 }
