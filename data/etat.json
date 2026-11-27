@@ -51,12 +51,12 @@
    "Huile d'olive|c.à.s": true,
    "Poivre|c.à.c": true
   },
-  "statut": "liste",
+  "statut": "panier_demande",
   "note": ""
  },
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:21:36.242Z"
+  "le": "2026-11-27T18:21:44.285Z"
  }
 }
