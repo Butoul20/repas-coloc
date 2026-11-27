@@ -48,12 +48,12 @@
  ],
  "courses": {
   "coches": {},
-  "statut": "panier_pret",
-  "note": "Panier rempli à la main sur Leclerc Drive (Voltaire 997371) : ~68 € de courses italiennes pour 4 pers. Poireaux et carottes surgelés (frais indisponible), bœuf haché Charal 1 kg, passata x3."
+  "statut": "liste",
+  "note": ""
  },
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:20:37.367Z"
+  "le": "2026-11-27T18:21:03.017Z"
  }
 }
