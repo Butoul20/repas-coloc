@@ -1,42 +1,5 @@
 {
- "repas": [
-  {
-   "uid": "du3la8r",
-   "recette": "curry-poulet-coco",
-   "portions": 3,
-   "par": "Matthieu",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:53:09.382Z"
-  },
-  {
-   "uid": "4l7bt5s",
-   "recette": "pates-carbonara",
-   "portions": 3,
-   "par": "Grégoire",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:58:13.526Z"
-  },
-  {
-   "uid": "4cf6xrb",
-   "recette": "wok-boeuf-legumes",
-   "portions": 3,
-   "par": "Grégoire",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:58:25.848Z"
-  },
-  {
-   "uid": "ljms8kx",
-   "recette": "lasagnes-bolo",
-   "portions": 3,
-   "par": "Grégoire",
-   "jour": "",
-   "faite": false,
-   "ajoute": "2026-11-27T15:58:28.721Z"
-  }
- ],
+ "repas": [],
  "courses": {
   "coches": {},
   "statut": "liste"
@@ -44,6 +7,6 @@
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T16:19:08.950Z"
+  "le": "2026-11-27T16:19:32.602Z"
  }
 }
