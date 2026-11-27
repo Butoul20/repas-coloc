@@ -47,15 +47,13 @@
   }
  ],
  "courses": {
-  "coches": {
-   "Poivre|c.à.c": true
-  },
+  "coches": {},
   "statut": "liste",
   "note": ""
  },
  "historique": [],
  "maj": {
   "par": "Matthieu",
-  "le": "2026-11-27T18:21:06.664Z"
+  "le": "2026-11-27T18:21:08.341Z"
  }
 }
