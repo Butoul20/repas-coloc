@@ -1,59 +1,50 @@
 {
-  "repas": [
-    {
-      "uid": "odn3mex",
-      "recette": "lasagnes-bolo",
-      "portions": 4,
-      "par": "Claude",
-      "jour": "",
-      "faite": false,
-      "ajoute": "2026-11-27T16:20:11.769483Z"
-    },
-    {
-      "uid": "g93q1on",
-      "recette": "pates-cacio-pepe",
-      "portions": 4,
-      "par": "Claude",
-      "jour": "",
-      "faite": false,
-      "ajoute": "2026-11-27T16:20:11.769483Z"
-    },
-    {
-      "uid": "qqib7w5",
-      "recette": "risotto-poireau",
-      "portions": 4,
-      "par": "Claude",
-      "jour": "",
-      "faite": false,
-      "ajoute": "2026-11-27T16:20:11.769483Z"
-    },
-    {
-      "uid": "r19ndit",
-      "recette": "gnocchi-polpette",
-      "portions": 4,
-      "par": "Claude",
-      "jour": "",
-      "faite": false,
-      "ajoute": "2026-11-27T16:20:11.769483Z"
-    },
-    {
-      "uid": "wh85or8",
-      "recette": "pizza-maison",
-      "portions": 4,
-      "par": "Claude",
-      "jour": "",
-      "faite": false,
-      "ajoute": "2026-11-27T16:20:11.769483Z"
-    }
-  ],
-  "courses": {
-    "coches": {},
-    "statut": "panier_pret",
-    "note": "Panier rempli à la main sur Leclerc Drive (Voltaire 997371) : ~68 € de courses italiennes pour 4 pers. Poireaux et carottes surgelés (frais indisponible), bœuf haché Charal 1 kg, passata x3."
+ "repas": [
+  {
+   "uid": "odn3mex",
+   "recette": "lasagnes-bolo",
+   "portions": 4,
+   "par": "Claude",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T16:20:11.769483Z"
   },
-  "historique": [],
-  "maj": {
-    "par": "Claude",
-    "le": "2026-11-27T16:20:11.769483Z"
+  {
+   "uid": "g93q1on",
+   "recette": "pates-cacio-pepe",
+   "portions": 4,
+   "par": "Claude",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T16:20:11.769483Z"
+  },
+  {
+   "uid": "r19ndit",
+   "recette": "gnocchi-polpette",
+   "portions": 4,
+   "par": "Claude",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T16:20:11.769483Z"
+  },
+  {
+   "uid": "wh85or8",
+   "recette": "pizza-maison",
+   "portions": 4,
+   "par": "Claude",
+   "jour": "",
+   "faite": false,
+   "ajoute": "2026-11-27T16:20:11.769483Z"
   }
+ ],
+ "courses": {
+  "coches": {},
+  "statut": "panier_pret",
+  "note": "Panier rempli à la main sur Leclerc Drive (Voltaire 997371) : ~68 € de courses italiennes pour 4 pers. Poireaux et carottes surgelés (frais indisponible), bœuf haché Charal 1 kg, passata x3."
+ },
+ "historique": [],
+ "maj": {
+  "par": "Matthieu",
+  "le": "2026-11-27T18:20:10.613Z"
+ }
 }
