@@ -51,12 +51,12 @@
    "Huile d'olive|c.à.s": true,
    "Poivre|c.à.c": true
   },
-  "statut": "panier_demande",
-  "note": ""
+  "statut": "panier_pret",
+  "note": "Panier Leclerc Drive Voltaire rempli : 79,65 € (au 27/11).\nIntrouvable : basilic frais (pas au catalogue, à prendre en magasin ou remplacer par du pesto).\nIndisponibles à vérifier avant de payer : sauce tomate passata, oignon jaune bio.\nNon commandés (placard coché) : huile d'olive, poivre."
  },
  "historique": [],
  "maj": {
-  "par": "Matthieu",
-  "le": "2026-11-27T18:21:44.285Z"
+  "par": "Claude",
+  "le": "2026-11-27T18:44:29.720902Z"
  }
 }
